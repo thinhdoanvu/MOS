@@ -1,0 +1,26 @@
+﻿2015	Country	Population
+	Saint Marino	29,973
+	Greece	11,262,000
+	Austria	8,316,487
+	Vatican	900
+	Belgium	10,666,866
+	Bulgary	7,640,238
+	France	65,073,482
+	Germany	82,060,000
+	Georgia	4,730,841
+	Denmark	5,511,451
+	Switzerland	7,700,200
+	Albania	3,619,778
+	United Kingdom	61,100,000
+	Ireland	4,501,000
+	Iceland	319,756
+	Spain	46,157,822
+	Italy	59,905,225
+	Croatia	4,491,543
+	Cyprus	1,054,400
+	Latvia	2,261,100
+	Hungary	10,031,000
+	Portugal	10,676,910
+	Sweden	9,234,209
+	Turkey	71,517,100
+	Finland	5,330,150
