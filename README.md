@@ -2,10 +2,10 @@
 
 ##Option 1:
 ###
-0. Close Word
-1. Delete Normal.dotm
-	C:\Users\Myname\AppData\Roaming\Microsoft\Templates
-2. Reopen Word
+	Step 1. Close Word
+	Step 2. Delete Normal.dotm
+		C:\Users\Myname\AppData\Roaming\Microsoft\Templates
+	Step 3. Reopen Word
 	
 ##Option 2:
 ####
