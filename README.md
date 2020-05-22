@@ -8,6 +8,7 @@
 2. Reopen Word
 	
 ##Option 2:
+####
 	Step 1:
 		Open a new Document, Excel, Word, PowerPoint, (Whichever you are missing themes.)
 	Step 2:
