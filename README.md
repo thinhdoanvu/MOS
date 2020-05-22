@@ -1,10 +1,11 @@
 #Missing Theme in Word, Excel, Powerpoint
 
 ##Option 1:
-	0. Close Word
-	1. Delete Normal.dotm
-		C:\Users\Myname\AppData\Roaming\Microsoft\Templates
-	2. Reopen Word
+0. Close Word
+1. Delete Normal.dotm
+	C:\Users\Myname\AppData\Roaming\Microsoft\Templates
+2. Reopen Word
+	
 ##Option 2:
 	Step 1:
 		Open a new Document, Excel, Word, PowerPoint, (Whichever you are missing themes.)
