@@ -16,9 +16,9 @@
 	Step 3:
 		Select "Trust Center" then select "Trust Center Settings" button.
 	Step 4:
-		On the left column, select "Privacy Settings."
+		On the left column, select "Privacy Options."
 	Step 5:
-		Uncheck The box that states, "Allow Office to connect to the Internet: and then click on the "OK" button.
+		Uncheck all boxs that states on the right collumn.
 	Step 6:
 		Open the new document and under the Design, or Themes dropdown menu, select and put a check in the box that states, "Enable Content Updates."  A window will open asking if you want to allow Office to connect to the Internet, select "OK."
 	Step 7:
