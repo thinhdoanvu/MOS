@@ -1,6 +1,7 @@
 #Missing Theme in Word, Excel, Powerpoint
 
 ##Option 1:
+###
 0. Close Word
 1. Delete Normal.dotm
 	C:\Users\Myname\AppData\Roaming\Microsoft\Templates
