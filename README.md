@@ -18,8 +18,10 @@
 	Step 4:
 		On the left column, select "Privacy Options."
 	Step 5:
-		Uncheck all boxs that states on the right collumn.
+		Macro Settings: Check Enable all macros (not recommended ....).
 	Step 6:
-		Open the new document and under the Design, or Themes dropdown menu, select and put a check in the box that states, "Enable Content Updates."  A window will open asking if you want to allow Office to connect to the Internet, select "OK."
+		Privacy Options again: UnCheck Let office connect to online service ...
 	Step 7:
+		Open the new document and under the Design, or Themes dropdown menu, select and put a check in the box that states, "Enable Content Updates."  A window will open asking if you want to allow Office to connect to the Internet, select "OK."
+	Step 8:
 		Exit the application and then reopen it.  All required themes should be available under the Themes.  NOTE: It may take a few minutes, but for me, it was more like seconds. 
