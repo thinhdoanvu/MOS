@@ -1,0 +1,9 @@
+Item #	Description	Inventory	 Price 	 Total 
+100001	Dog Food w/ Beef	5	 $26.99 	 $134.95 
+100002	Dog Food w/ Chicken	4	 $26.99 	 $107.96 
+100003	Cat Food w/ Chicken	6	 $26.99 	 $161.94 
+100004	Cat Food w/ Fish	2	 $26.99 	 $53.98 
+100005	Grain-free Cat Food	3	 $26.99 	 $80.97 
+100006	Grain-free Dog Food	5	26.99	134.95
+100007	Organic Rabbit Food	4	22.99	91.96
+100008	Dog Food w/ Turkey	2	27.99	55.98
